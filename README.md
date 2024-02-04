@@ -1,5 +1,6 @@
 # Science without chains
-<img src="public/Science-without-chains.jpg" alt="Logo_Sciences-Without-Chains" style="width:80px;">
+<center><img src="public/Science-without-chains.jpg" alt="Logo_Sciences-Without-Chains" style="width:400px;"></center>
+
 ## About Us
 Our goal is to build a **_web site_**  where **_researchers_** can upload their projects for free, take feedback from other researchers, make sure no one can steal their job while making it **_accessible_** for people interested in the research that are in the platform.
 
